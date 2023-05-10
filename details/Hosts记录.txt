@@ -1,0 +1,25 @@
+hostsSize: 7355
+errorMessage: Request timeout has expired [url=https://anti-ad.net/easylist.txt, request_timeout=5000 ms]
+hostsSize: 18763
+hostsSize: 73916
+errorMessage: Request timeout has expired [url=https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext, request_timeout=5000 ms]
+hostsSize: 140092
+errorMessage: Request timeout has expired [url=https://easylist-downloads.adblockplus.org/easylist.txt, request_timeout=5000 ms]
+errorMessage: Request timeout has expired [url=https://easylist-downloads.adblockplus.org/easyprivacy.txt, request_timeout=5000 ms]
+errorMessage: Request timeout has expired [url=https://hblock.molinero.dev/hosts, request_timeout=5000 ms]
+hostsSize: 140119
+errorMessage: Request timeout has expired [url=https://easylist-downloads.adblockplus.org/easylistchina.txt, request_timeout=5000 ms]
+hostsSize: 196275
+hostsSize: 276540
+hostsSize: 292539
+hostsSize: 963980
+hostsSize: 964029
+hostsSize: 964029
+hostsSize: 964034
+hostsSize: 964154
+hostsSize: 964590
+hostsSize: 964590
+errorMessage: Request timeout has expired [url=https://raw.fastgit.org/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts, request_timeout=5000 ms]
+errorMessage: Request timeout has expired [url=https://raw.fastgit.org/francis-zhao/quarklist/master/dist/hosts, request_timeout=5000 ms]
+errorMessage: Request timeout has expired [url=https://raw.fastgit.org/hoshsadiq/adblock-nocoin-list/master/hosts.txt, request_timeout=5000 ms]
+errorMessage: Request timeout has expired [url=https://raw.fastgit.org/shiqianwei0508/Adhosts-block/master/hosts, request_timeout=5000 ms]

@@ -1,0 +1,92 @@
+{
+	"AniInfo": {
+		"AID": "1",
+		"R地区": "",
+		"R动画种类": "",
+		"R动画名称": "测试页面",
+		"R原版名称": "",
+		"R其它名称": "",
+		"R字母索引": "",
+		"R原作": "",
+		"R制作公司": "",
+		"R首播时间": "2022-01-18",
+		"R播放状态": "",
+		"R剧情类型": "",
+		"R在线播放": "",
+		"R在线播放2": "",
+		"R在线播放3": "",
+		"R在线播放4": "",
+		"R新番标题": "",
+		"R网盘资源": "",
+		"R视频尺寸": "",
+		"R资源类型": "",
+		"R备用": "rbak",
+		"R系列": "",
+		"R官方网站": "",
+		"R标签": "",
+		"R更新时间": "",
+		"R标题V2": "",
+		"R推荐星级": 3,
+		"R封面图": "",
+		"R封面图小": "",
+		"R简介": "这是一个测试页面，如果你看到了这个页面，说明跳转参数错误",
+		"DEF_PLAYINDEX": "2",
+		"R更新时间unix": 1609000481,
+		"R更新时间str": "2022-01-18 01:07:41",
+		"R更新时间str2": "2022-01-18",
+		"R简介_br": "这是一个测试页面，如果你看到了这个页面，说明跳转参数错误",
+		"R标签2": [],
+		"R剧情类型2": [],
+		"R在线播放All": [
+			[
+				{
+					"Title": "制作决定PV",
+					"Title_l": "制作决定PV",
+					"PlayId": "<play>web_mp4</play>",
+					"PlayVid": "https://bos.nj.bpc.baidu.com/tieba-smallvideo-transcode-crf/8750691_2a19d5be874b0239a22cfaedb6869ac2_0.mp4",
+					"EpName": "PV",
+					"EpPic": "",
+					"Ex": ""
+				}],
+			[
+				{
+					"Title": "第01话",
+					"Title_l": "第01话 1080P",
+					"PlayId": "<play>QLIVE</play>",
+					"PlayVid": "1098_ff7b7821efb24d29407c92cb6d4aec8c",
+					"EpName": "1",
+					"EpPic": "",
+					"Ex": ""
+				}],
+			[
+				{
+					"Title": "第1集",
+					"Title_l": "第1集",
+					"PlayId": "<play>web_mp4</play>",
+					"PlayVid": "https%3a%2f%2f1251316161%2evod2%2emyqcloud%2ecom%2f007a649dvodcq1251316161%2f34361caa5285890808482214056%2fMCzfZArzXFsA%2emp4",
+					"EpName": "1",
+					"EpPic": "",
+					"Ex": ""
+				}],
+			[]
+		],
+		"R网盘资源2": [
+			{
+				"Title": "暂无",
+				"Link": "",
+				"ExCode": "无"
+			}
+		],
+		"R首播年份": "",
+		"R首播季度": "",
+		"RankCnt": 0,
+		"CommentCnt": 0,
+		"CollectCnt": 0,
+		"ModifiedTime": 0,
+		"LastModified": "",
+		"FilePath": ""
+	},
+	"AniPreRel": [],
+	"AniPreSim": [],
+	"Tip": ""
+}
